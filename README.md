@@ -14,8 +14,7 @@ It can be found prebuilt on Keras.datasets or at [This CS Toronto Page](https://
 All the above can be installed via `pip install` for Python2 and `pip3 install ` for Python3 
 
 ## Final Model Accuracy:
-| Model 1 | 5 |
-| Model 1 + SVM  | 85.09  |
-| Model 2| 84.32  |
-
-
+| Model 1       	| 84.55 	|
+|---------------	|-------	|
+| Model 1 + SVM 	| 85.09 	|
+| Model 2       	| 84.32 	|
