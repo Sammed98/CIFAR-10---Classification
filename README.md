@@ -8,7 +8,7 @@ It can be found prebuilt on Keras.datasets or at [This CS Toronto Page](https://
 ## Requirements
 1. Keras
 2. Matplotlib
-3.Numpy
+3. Numpy
 4. Scipy 
 
 All the above can be installed via `pip install` for Python2 and `pip3 install ` for Python3 
