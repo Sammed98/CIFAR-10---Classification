@@ -15,7 +15,6 @@ All the above can be installed via `pip install` for Python2 and `pip3 install `
 
 ## Final Model Accuracy:
 | Model 1 | 5 |
-|---------|---|
 | Model 1 + SVM  | 85.09  |
 | Model 2| 84.32  |
 
