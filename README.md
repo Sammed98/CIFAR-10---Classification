@@ -15,4 +15,5 @@ All the above can be installed via `pip install` for Python2 and `pip3 install `
 
 ## Final Model Accuracy: 
 Model 1: 84.55%
+
 Model 2: 84.32%
