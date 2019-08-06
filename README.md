@@ -1,4 +1,3 @@
-# Inter-IIT-Qualifiers
 Trials and studies on developing our own Classifier on CIFAR 10 Architectures
 
 ## Dataset:
